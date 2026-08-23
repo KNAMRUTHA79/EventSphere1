@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Main Auditorium",
+        "capacity": 500,
+        "location": "Hyderabad",
+        "facilities": [
+            "Projector",
+            "Air Conditioning",
+            "Sound Systems"
+        ],
+        "is_available": true
+    }
+]

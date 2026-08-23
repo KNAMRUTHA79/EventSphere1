@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "ML Workshop",
+        "event_type": "Workshop",
+        "date": "10/08/2026",
+        "time": "10:00 AM",
+        "budget": 300.0,
+        "description": "Join us for a hands-on Machine Learning workshop where you'll go from zero to building your first predictive model. We'll clean real-world data, train algorithms using Python, and evaluate eprformance-all through live coding sessions. No heavy math required, just bring your laptop and curiosity. You'll leave with a working project and the skills to start your ML journey.",
+        "venue": "Not Assigned",
+        "resources": [
+            {
+                "resource_id": 1,
+                "name": "Projector",
+                "quantity": 1
+            }
+        ],
+        "attendees": [
+            {
+                "id": 1,
+                "name": "KOTHAKONDA NAMRUTHA",
+                "email": "kothakondanamrutha55@gmail.com"
+            }
+        ],
+        "status": "Planning",
+        "created_at": "2026-08-10 14:15:30"
+    },
+    {
+        "id": 2,
+        "name": "TechFest 2026",
+        "event_type": "Hackathon",
+        "date": "22/08/2026",
+        "time": "11:00 AM",
+        "budget": 60000.0,
+        "description": "College Technical Fest",
+        "venue": "Not Assigned",
+        "resources": [],
+        "attendees": [],
+        "status": "In Progress",
+        "created_at": "2026-08-10 14:37:32"
+    }
+]
